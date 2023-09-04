@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ampireceyz but you can call me Sam
+- 👋 Hi, I’m @vampireceyz but you can call me Sam
 - 👀 I’m interested in D4DJ, AIB and Anime
 - 🌱 I’m currently learning python
 - 📫 How to reach me | Discord: vampireceyz
