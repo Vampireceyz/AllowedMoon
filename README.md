@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @AllowedMoon but you can call me Matthew
-- 👀 I’m interested in MLP, Heartstopper and Anime
+- 👋 Hi, I’m @ampireceyz but you can call me Sam
+- 👀 I’m interested in D4DJ, AIB and Anime
 - 🌱 I’m currently learning python
-- 📫 How to reach me | Discord: <3~#1294
+- 📫 How to reach me | Discord: vampireceyz
 
 <!---
-AllowedMoon/AllowedMoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vampireceyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
